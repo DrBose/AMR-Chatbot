@@ -1,0 +1,5 @@
+{
+  "name": "AMR Awareness Chatbot",
+  "description": "An intelligent chatbot to educate citizens on Antimicrobial Resistance (AMR) and promote the rational use of antibiotics, powered by Gemini.",
+  "requestFramePermissions": []
+}
